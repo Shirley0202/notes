@@ -27,6 +27,8 @@ CAAnimationDelegate这个类 在 iOS10 之前是 NSObject 的分类 现在是一
 [iOS10 适配的问题](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155592&idx=1&sn=36619a9412d2f82b92506f38b8462cb1&chksm=8046cea9b73147bf6574267785f7c8a1514ac7f064bbbb15bc7cfd0ac37ff264763e59a89ffb&mpshare=1&scene=23&srcid=12057NwtqB6hn1gIZXJjqYtG#rd)
 1 系统版本的判断 2 色值 3 用户权限 4 https 5UIStatusBar 6cell的优化 7自带刷新控件属性
 
+[iOS10权限带来的坑](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155636&idx=1&sn=f19025cf259222ebe2b05ddc31d55e32&chksm=8046ce95b7314783daac8a4d6ef805e5d95590d08980c0814b346d3934751aada18cee0e5af0&mpshare=1&scene=23&srcid=1205TVkAo6WUqeXzX1lEbRcn#rd)
+ 是说国行的手机首次安装应用会询问用户是否给此app使用网络,而这段时间的所有的网络请求都失效了(需要提供一个解决方案)
 
 [webKit 加载 webPage](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155642&idx=3&sn=89c1bf651e08f4a1d8d5901da07689ed&chksm=8046ce9bb731478dd04311f882af2bb7b6be98b619819fd5597f119fd1927de51c255bf47896&mpshare=1&scene=23&srcid=1205ehQC3XBtRjgNt0P5xdMt#rd)
 
@@ -42,7 +44,7 @@ CAAnimationDelegate这个类 在 iOS10 之前是 NSObject 的分类 现在是一
 
 [LXNetWorking 基于 afn3.0的封装](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155639&idx=1&sn=7c9a4957422294d3f943b588d17e446a&chksm=8046ce96b73147805662deab889398a6e5bcc326ea9d439ceee9f61bdedfac72bb05d4d6dc9e&mpshare=1&scene=23&srcid=12056vy8iGpZrAaT5i2H74CM#rd)
 
-[iOS10权限带来的坑](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155636&idx=1&sn=f19025cf259222ebe2b05ddc31d55e32&chksm=8046ce95b7314783daac8a4d6ef805e5d95590d08980c0814b346d3934751aada18cee0e5af0&mpshare=1&scene=23&srcid=1205TVkAo6WUqeXzX1lEbRcn#rd)
+
 
 [cocoapods 使用一二](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155622&idx=2&sn=cbee02a566b274250ddaf29f467f5f44&chksm=8046ce87b73147913ad20a31e768aac8cd0e67a4061737e213d476b0cdc3063c475ee82351af&mpshare=1&scene=23&srcid=1205mnnQGufgeAX8yUrTtzp5#rd)
 [cocoapods 使用一二](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155636&idx=2&sn=cd3af5fb824198872990b025df372925&chksm=8046ce95b7314783850e0208276d8ad38f81fda99757c648c881d75869dd3022ce154dc3140c&mpshare=1&scene=23&srcid=1205r7Ou67D8RkOtpRwSr3pz#rd)
@@ -50,8 +52,11 @@ CAAnimationDelegate这个类 在 iOS10 之前是 NSObject 的分类 现在是一
 [工程文件助手](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155634&idx=2&sn=01648ed3775f80e3486e5e0b69302623&chksm=8046ce93b731478546994145c5583c2d1e6851f2c230ca4589d8e56b3ffa57835918159e920d&mpshare=1&scene=23&srcid=12057zbwVQMBLTBqQRjiSrC2#rd)
 
 [KVO](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155634&idx=1&sn=3330f2812448719d7f1650f029a36e46&chksm=8046ce93b731478589beee9578a7b766c57fb4c804080bf1d20d99670875c18fcf993eb53d46&mpshare=1&scene=23&srcid=1205UyE33gGRSG29GOc1bYTP#rd)
+kvo 的实现 系统又创建了一个派生类 来改变了原来类的指针,派生类中有被监听的属性,并重写了set方法 当改变是发出通知 并管理者原来类的生命周期
+
 
 [自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155574&idx=2&sn=ff6ea8827841f29df1259ee93d7490eb&chksm=8046ced7b73147c188bb3d5b7cff16fea7f035c1edbc1d1003d123aeab5e3dd386ef820990bb&mpshare=1&scene=23&srcid=12055eA9GxV554wlAh9XNQ0B#rd)
+思路可以借鉴,但是对比MJRefresh 还是有距离的 
 
 [仿 UC 浏览器首页下啦动画及实现](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155622&idx=1&sn=4fbbd1dd356a705e42ba46b646c3266c&chksm=8046ce87b7314791bc5f98dea14d27cf1243c5b23371a531359ae66e34a7acfaee1a08ec6727&mpshare=1&scene=23&srcid=1205rRGIokBM8yk8t5eQ1rtZ#rd)
 
