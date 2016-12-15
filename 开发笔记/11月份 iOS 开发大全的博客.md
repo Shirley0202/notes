@@ -11,6 +11,7 @@ CAAnimationDelegate这个类 在 iOS10 之前是 NSObject 的分类 现在是一
 
 
 [swift review](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155648&idx=2&sn=8ee5742c557901af986bbc5d9d0d5902&chksm=8046cf61b7314677d93fa18482a6b14267689f04cafea9434eadff20c1e905322e51beb12e3e&mpshare=1&scene=23&srcid=1205ZCmPquDRRCG7blsChceL#rd)
+swift 的规范
 
 [swift 面向协议说下去](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155604&idx=2&sn=647f8d4cb54f110db01ab303a6b1aa49&chksm=8046ceb5b73147a3121f18d59a029694c095feb2074854ab0b1138e9bca65ff7bd0689a42f9c&mpshare=1&scene=23&srcid=1205rVQecVP0UTVghubQ7UJd#rd)
 
@@ -30,14 +31,14 @@ CAAnimationDelegate这个类 在 iOS10 之前是 NSObject 的分类 现在是一
 [iOS10权限带来的坑](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155636&idx=1&sn=f19025cf259222ebe2b05ddc31d55e32&chksm=8046ce95b7314783daac8a4d6ef805e5d95590d08980c0814b346d3934751aada18cee0e5af0&mpshare=1&scene=23&srcid=1205TVkAo6WUqeXzX1lEbRcn#rd)
  是说国行的手机首次安装应用会询问用户是否给此app使用网络,而这段时间的所有的网络请求都失效了(需要提供一个解决方案)
 
-[webKit 加载 webPage](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155642&idx=3&sn=89c1bf651e08f4a1d8d5901da07689ed&chksm=8046ce9bb731478dd04311f882af2bb7b6be98b619819fd5597f119fd1927de51c255bf47896&mpshare=1&scene=23&srcid=1205ehQC3XBtRjgNt0P5xdMt#rd)
-
+[webKit 加载 webPage](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155642&idx=3&sn=89c1bf651e08f4a1d8d5901da07689ed&chksm=8046ce9bb731478dd04311f882af2bb7b6be98b619819fd5597f119fd1927de51c255bf47896&mpshare=1&scene=23&srcid=1205ehQC3XBtRjgNt0P5xdMt#rd) 
 [webKit 学习之路](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155616&idx=2&sn=42491d64dfec3b6555a662de04a184dc&chksm=8046ce81b731479777c96f8ce3e07c47a2f03aac6d42caf353b3583ab67787843a578dc04f88&mpshare=1&scene=23&srcid=1205dhO8cJCGXPV6RUFwVylg#rd)
-
 [ WKWebKit 使用注意点](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155597&idx=1&sn=77ae80600886791602d78ebd800e6f9b&chksm=8046ceacb73147ba6fb478d5833e1681a375c010c6bc398e7ba5e850ff396be3ef4a6540ca45&mpshare=1&scene=23&srcid=1205GxAPysWQZdmHTaYB0zTO#rd)
+
+ WKWebView的使用的坑和解决办法
  
 [iOS 中的各种锁](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155639&idx=2&sn=05ba50f5f5988e31dd21467c8c9819bf&chksm=8046ce96b7314780f70489f13ff108ba0a3ca647e9a446381f56afcb9788dd4c803199ceddf5&mpshare=1&scene=23&srcid=1205VnzGnydnXw9koHGivTKy#rd)
-
+//各种
 
 [优先队列的一种实现方式](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155597&idx=2&sn=adaeddce407331cc92dc79bd4cb3b1ae&chksm=8046ceacb73147ba8a4e2b189c97718ba72a65341ee2097d19773e8624bc10ef3dc36a45f3fe&mpshare=1&scene=23&srcid=1205L48BdUb1qnu0rUny5wzJ#rd)
 
@@ -59,9 +60,11 @@ kvo 的实现 系统又创建了一个派生类 来改变了原来类的指针,�
 思路可以借鉴,但是对比MJRefresh 还是有距离的 
 
 [仿 UC 浏览器首页下啦动画及实现](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155622&idx=1&sn=4fbbd1dd356a705e42ba46b646c3266c&chksm=8046ce87b7314791bc5f98dea14d27cf1243c5b23371a531359ae66e34a7acfaee1a08ec6727&mpshare=1&scene=23&srcid=1205rRGIokBM8yk8t5eQ1rtZ#rd)
+利用贝塞尔曲线来化一个区域 画处了弧线
 
 
 [仿淘宝上拉进入详情页面的动画和实现](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155592&idx=2&sn=4b8552a6e80914f17d5c7859d386596a&chksm=8046cea9b73147bf4db11f2ee5c27c85c1b60d2b8becb7d3cf31b6aef4b6bae162cef9a7a926&mpshare=1&scene=23&srcid=1205HxAdmwF6yOVj7MDJWhdR#rd)
+//做好转场就好了
 
 [NSOperation NSOperationQueen](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155619&idx=1&sn=600ecfc372e03e23bd431489cf04376c&chksm=8046ce82b7314794d3571775193c5c9c4f2bf2f1dae9299a7525b3f493ac4b3be81d1c817d92&mpshare=1&scene=23&srcid=1205kqg2BljsW97cOxvigs7E#rd)
 
@@ -71,6 +74,7 @@ kvo 的实现 系统又创建了一个派生类 来改变了原来类的指针,�
 [siriKit 初窥](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155616&idx=1&sn=1ebe087c30818ae7d16c41227fddd9c0&chksm=8046ce81b7314797cb3b162e0a373451ee57cdc8dbef0de17c2d31578c33d7b103aca2a314c7&mpshare=1&scene=23&srcid=1205wqmLV7cmsy7CIlbIkDQP#rd)
 
 [ios 导航栏的那些事](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155613&idx=2&sn=f01c3439f077984297c3752f87085245&chksm=8046cebcb73147aa97d71eb02ecb39f82ce300d5e4f74cc9a38f31270af9be6725250eb63e38&mpshare=1&scene=23&srcid=1205tNKw92kI7SXPO2SZyOYG#rd)
+//设置背景色 还是会有半透明效果 要这是背景图 但是如果背景图是存色的图片  那个translucent会被设置为 no 导致 view 的 frame 会有变化
 
 [全栈工程师](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155613&idx=1&sn=b06840ec12660245b059488ad551d213&chksm=8046cebcb73147aaafe48feafd24a613e3b8a02c260c22c771244dca194c76af4c1933b576fe&mpshare=1&scene=23&srcid=1205duldxfpeVAe1BsUeXzKL#rd)
 
@@ -97,8 +101,6 @@ kvo 的实现 系统又创建了一个派生类 来改变了原来类的指针,�
 
 [iOS 中静态库和动态库的使用和制作](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155562&idx=2&sn=9a84b9b9d7dc29e20622d4ac32d75a04&chksm=8046cecbb73147dd9b59db0e29ca0d7d0102ce14f09cbe68df43fc59d3d9b2a1158850c03afe&mpshare=1&scene=23&srcid=12051aUj1AgjvnwKK8mVFJbU#rd)
 
-[打包静态库](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155526&idx=1&sn=6bdcea66c798cef3eb78c33084132905&chksm=8046cee7b73147f157e37c2f249cc169ab9b41b236be87fb25f8378343f7fc7931694765aaf6&mpshare=1&scene=23&srcid=1205c98P9foNWc74IYLasuwB#rd)
-
 
 [iOS 开发 tips](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155586&idx=1&sn=817fb03b8db5cf3b8c4645e199deff6a&chksm=8046cea3b73147b548b035f59c63092793262d9ca7003a66a946682989a55914c782b308b8d6&mpshare=1&scene=23&srcid=1205fI9XnCCG4wgTlC5qLgct#rd)
 
@@ -112,8 +114,10 @@ kvo 的实现 系统又创建了一个派生类 来改变了原来类的指针,�
 
 
 [ios 链式开发实战](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155560&idx=2&sn=3beee5fe8a248890e2f51b97f669853e&chksm=8046cec9b73147df46d837fb256fedaf8c34467ce48eb7611091535b21bd2e9cc504d81041f0&mpshare=1&scene=23&srcid=1205gvMS0qYm2vocRQU5MGb5#rd)
+//链式编程特点：方法的返回值是block,block必须有返回值（本身对象），block参数（需要操作的值）
 
 [iOS app 从点击到启动](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155558&idx=1&sn=5f594d019bdc5c849a4ff4b2926ca7fe&chksm=8046cec7b73147d147fa804df309104a0a52a2ae16fdf17d7aaedd716d3c35c9442787b0f195&mpshare=1&scene=23&srcid=1205YTvPOO5sT8MY9kVlh8uT#rd)
+//main  ->UIApplication ->UiAplication.delegate = Application ->调用代理方法didFinishLaunchingWithOptions创建窗口 ->获取 info 里面的入口控制器设置窗口的跟控制器
 
 [sceneKit iOS10 新特性制作3d 场景](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155556&idx=1&sn=840b8dde6b73992628e94e91b3ca0f97&chksm=8046cec5b73147d3ee2ae4c958347e7e49ecf2f1a855b905c1dfe17c8452f445d09c8bc2b6c6&mpshare=1&scene=23&srcid=1205zzGPcudS0ZUEQNiMUIVw#rd)
 
@@ -122,18 +126,23 @@ kvo 的实现 系统又创建了一个派生类 来改变了原来类的指针,�
 [RNC ](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155584&idx=1&sn=1585cde27616cc6ed1a9a89fb936466e&chksm=8046cea1b73147b7f511d5421a12fc198f0efe9983ecba6793a28e91603271e63dab317528ec&mpshare=1&scene=23&srcid=12057h2zgYvQl9dbV7XJJKg7#rd)
 
 [二维码](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155558&idx=2&sn=4b3a2bf040c7e1956a02e4e79774c485&chksm=8046cec7b73147d19b712f3d1044f382e0f1caf6463f799578f93949f299622a2c92cdc52185&mpshare=1&scene=23&srcid=1205kl3zwV0oVBwCM8GkPSFX#rd)
+//系统的框架
 
 [播放远程音乐](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155554&idx=2&sn=c159ad2fae7e042da448d56d178f7207&chksm=8046cec3b73147d545ba75577dccf4823d60427295dd9405d971e706eda0fc672a1a69139f9b&mpshare=1&scene=23&srcid=1205h6L3WEKwSJ3wwSeW3GrM#rd)
+//AVPlayer
 
 [如何优雅的谈源码](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155554&idx=1&sn=10d10327e31a8fbe0faa5dda777a54bf&chksm=8046cec3b73147d5ceb5e79da20611c92604c5d4fd9b2d71caceff0cc5715c30c39becdda876&mpshare=1&scene=23&srcid=1205orGcEZcCLDIFYiiSkOUQ#rd)
+SDWebImage 的解读
 
 [预加载和智能加载](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155552&idx=2&sn=0606a0ab8cd155fcfec7bcd9160625db&chksm=8046cec1b73147d7838ca55dbeb19735f16f38a1069b75e56b5d451724f693c4d235a53c96c0&mpshare=1&scene=23&srcid=1205Ys1EVyyWI3s2d6OjHdl3#rd)
+//这个值得学习,暂时没有深入了解
 
 [ gif图](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155552&idx=1&sn=464a5e8703b5f2e4bc304a5cbc178a62&chksm=8046cec1b73147d72d106e0e677e4b6ad854fd89687dc25d225f4033a2882c6aa707c7708ae6&mpshare=1&scene=23&srcid=1205k9aj3TwWARz1PFtLS7hA#rd)
 
 [仿微博，别下别播](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155549&idx=2&sn=004a5bf3026ab03c43f3c7653844fcfe&chksm=8046cefcb73147eae7554c73d3636724f9e7599df8b09b35cab855871bfed8a4d0958a2df062&mpshare=1&scene=23&srcid=12057XMcTdEHtHDA6XnrLSwC#rd)
 
 [usernotification](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155549&idx=1&sn=c74f2b263d2ff3e5df60ec21b7fecd2e&chksm=8046cefcb73147ea1b34a209c53bd42da9d6604ae324068afa98d57f0d0898588a1c2884c384&mpshare=1&scene=23&srcid=1205zXYMOKiLcd9ft6C1NHK6#rd)
+//iOS 的推送有很多的新功能啊 
 
 [优化 app 启动时间](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155547&idx=2&sn=2d17b92ae9913d256401f8ce60b4f1a6&chksm=8046cefab73147ecc217d642d74055fd5bb0ebe37ae8e1ed88f3ef10eb3ab13ea2210951b7d6&mpshare=1&scene=23&srcid=1205dYkg3cla4e2UGEwTFMdH#rd)
 
