@@ -149,6 +149,7 @@ SDWebImage 的解读
 [app直播推流](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155547&idx=1&sn=67461d928e4faafdc21d55ba1903f627&chksm=8046cefab73147ec89e61a620cd8262f817623d10bd2eb0ae4d51507bcf75e95835d689140e1&mpshare=1&scene=23&srcid=1205i3xP1smOYJBERTnep4so#rd)
 
 [objc的前世今生](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155544&idx=1&sn=f46695a5a312b51f679f5ae623afab34&chksm=8046cef9b73147efbe93c281cad4d8c3625987ec64ca5c7ef8e951cac668b10cd9d29971b2ef&mpshare=1&scene=23&srcid=1205283ZAXXdCCsA7eoEn3EL#rd)
+//类的创建和销毁的运行时过程
 
 
 
@@ -162,10 +163,13 @@ SDWebImage 的解读
 [网易面试大牛](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155527&idx=1&sn=b3c24f9635ffca632fc390fc95b49613&chksm=8046cee6b73147f03fc8ba9261013b42976022be9d96b30e26f1683ec2467a13125ed9dc0015&mpshare=1&scene=23&srcid=1205feEU9VQ43bcJ5xTr42VP#rd)
 
 [让qq不能撤回](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155527&idx=2&sn=33b8ed1bb716563338f8adf8affd8f08&chksm=8046cee6b73147f0c4603224154ad9e850e8b0834dddd0784c824dd4d2d5e2ca08bfd24b3fbc&mpshare=1&scene=23&srcid=1205L0MwL1BYL5k8lExsDgh0#rd)
+//iOS 逆向工程
 
 [iOS 未来](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155526&idx=2&sn=4bc1aa1df5d31a8faa91ca9389ab0809&chksm=8046cee7b73147f185a7ae280b1adf0d8cb312c33440b27db4bebc49495c41c606fe37c6f783&mpshare=1&scene=23&srcid=1205NezoHdj8t42oBdYNoCKI#rd)
+//闲谈
 
 [ios位运算](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155523&idx=2&sn=ec7fff6e09bf65901dd04a73184b85c5&chksm=8046cee2b73147f435667e216ad694c6ab2cb254d5a32ab0a111615c6e273de62eceee353d9e&mpshare=1&scene=23&srcid=1205Jszh5aDhFAqQYTaC52Ko#rd)
+//位运算现在都属于底层的只是了 很少在代码里使用到了,大多都被重新的封装了起来 
 
 
 
