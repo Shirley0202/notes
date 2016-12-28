@@ -60,13 +60,38 @@
 
 [app 缓存数据线程安全问题探讨](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155699&idx=2&sn=8b3f3598a9273fdad891ac230cdf4c8c&chksm=8046cf52b7314644092cf5cc6620205530f97b4eb5c0183415dea79a1e457206ecfdfe3a68f5&mpshare=1&scene=23&srcid=1221OozPizPDt4mnTKbNTRVS#rd)
 
+[27 款 iOS 开源库，让你的开发溜到飞起](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155701&idx=1&sn=ddb9e1021f7120261a04fe12e0dea821&chksm=8046cf54b7314642c7a6e333696133bc8806cc8a3c1e475460b8d6cc78fa569c0245e1166e16&mpshare=1&scene=23&srcid=12217LirJpBmWPqK80NMQeUa#rd)
 
 
+[iOS 图像处理 – 一种高效裁剪图片圆角的算法](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155701&idx=2&sn=8195a4db3e772418f57295fb8fc2a3f2&chksm=8046cf54b73146420dfa405ab6d4f424cb6a8cd2fcbef0a01b067c77596714ee57455a02aacf&mpshare=1&scene=23&srcid=1221p2VSSbYd6MqQJXfD5sc2#rd)
 
+[AFNetworking到底做了什么？](http://mp.weixin.qq.com/s?__biz=MzA4ODk0NjY4NA==&mid=2701606382&idx=1&sn=bb55b98771f987f77e76983430eb4cfa&chksm=b4d1ff7d83a6766b8e67c2f41a2228f6334d33686e9f6f826949eaa55761ed1a2ca9252c6eda&mpshare=1&scene=23&srcid=1221szToPA7dyaLHEbwaA4PS#rd)
 
+[HTTP 协议中你必须知道的三种数据格式](http://mp.weixin.qq.com/s?__biz=MzI1OTQwOTg2Mg==&mid=2247484308&idx=2&sn=e025b98953f133ec8849e5d1c4ea8149&chksm=ea78113ddd0f982b1edc1d21f33b22ad1950b2f2616d71017151416903ed18f797594bdcc28a&mpshare=1&scene=23&srcid=1222tlZHPlXZPMS22Ao7o8dq#rd)
 
+[iOS 动态化](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155703&idx=1&sn=1efac6cc27d1865e94dc1db5c8c3a277&chksm=8046cf56b73146403b62376f07f0440940b209e6d84e1fa0d4d4d78a83c51cc73f1b1f9f5922&mpshare=1&scene=23&srcid=1228Mi0WigFEORmLbKsZuvsu#rd)
 
+[XMNetworking网络库的设计与使用](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155703&idx=2&sn=ad727e5ad8500a547fc869d633dd1afe&chksm=8046cf56b73146403c66cf9f126774d135f65e1f75fa8053725404668f018db760f99035af1e&mpshare=1&scene=23&srcid=1228TkUGzZfJtf6D74oySFXL#rd)
 
+[iOS 的那个垃圾轮播](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155709&idx=1&sn=119064357d81899812a81ef56c00d1db&chksm=8046cf5cb731464ac70a2cb1821a91a8aced0b44607d50c266368b612613b39f47c58820b0f9&mpshare=1&scene=23&srcid=1228GQIWvTkmacgMUvEstxFl#rd)
+
+[GCD 容易让你迷惑的几个小问题](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155709&idx=3&sn=b369dbe60f3075ab4bbb65df149c3014&chksm=8046cf5cb731464af26c755072667745d4a8b0e5358da1cac3269d80eee23226ec8bf8a5c20d&mpshare=1&scene=23&srcid=12280eYM8Ch5eHG0n2zAGTue#rd)
+
+[移动端路由层设计](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155715&idx=1&sn=9a418eb51fd2183719beae03185d4ba6&chksm=8046cf22b73146349ec7a037c3a2c7937963e27abd2da5c447c766c5821f2be5fe7049c92c2a&mpshare=1&scene=23&srcid=12281BnUBJH6pcu9P04G5ttV#rd)
+
+[一步步构建 iOS 路由](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155715&idx=2&sn=477f963f453020c840993ba407a3085b&chksm=8046cf22b73146341fc766f79e0e84e68a237fe7d349fc0a051e321835f246b4446117322a52&mpshare=1&scene=23&srcid=1228BPokz9gQIT9KD5LsNQof#rd)
+
+[Instagram/IFListKit](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155721&idx=1&sn=f84b85a90f672cf066cf4f35ff85e441&chksm=8046cf28b731463e17aa6cb4dfe591dc9da6de751023c4f1e39c8f80f302366f6d8db23ff9ab&mpshare=1&scene=23&srcid=1228VxjNNgiEdGznD2TBDL05#rd)
+
+[iOS 如何写出更加严谨的应用](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155721&idx=2&sn=e8ac67c8f892402e661b254421046306&chksm=8046cf28b731463e936cd2f5a67450de156eb6746af57168811b7df2723f42e251b021260cdb&mpshare=1&scene=23&srcid=1228F2F2MsJq2TbORDYojpWV#rd)
+
+[iOS 组件化方案 附带源码](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155726&idx=2&sn=69e4b33fa0928cf5a51031031285b863&chksm=8046cf2fb7314639aed0c30bdb9e71557783c9c13673553f4a5da4b8ff20306d468ec402cd9d&mpshare=1&scene=23&srcid=1228Jb8lVTZA18Kglbrk2e9t#rd)
+
+[基于 CADisplayLink 的 FPS 指示器](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155726&idx=3&sn=0d32cbd18f4354cd66e8e69979eb007f&chksm=8046cf2fb731463956760b8ee6a4381376b4209a0e715b31369031fb79eb58f9c882185644dc&mpshare=1&scene=23&srcid=1228RepufBFttm26AAdkd8ZL#rd)
+
+[runtime 闲聊内存管理](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155729&idx=1&sn=bd287977586eb96d717bf8a5d12afe37&chksm=8046cf30b73146262c0aadd79daa8ef49e0c764056ec6744d7ce878d5727d9944eec23f3daba&mpshare=1&scene=23&srcid=1228oxVHFrw5UG8HdyW2fwqt#rd)
+
+[利用动态化加载实现手机淘宝的节日特效](http://www.jianshu.com/p/195eb1d8d0de)
 
 ----
 [书籍](http://blog.jobbole.com/106093/)
