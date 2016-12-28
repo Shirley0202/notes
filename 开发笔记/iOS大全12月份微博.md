@@ -13,7 +13,7 @@
 
 [下载历史版本app 超详细教程](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155660&idx=2&sn=ee87307f4c1bd1c73396586ac4ec9619&chksm=8046cf6db731467b116896795a33eef59c8cf2dc94cbf80b129dbe0bb1bd259ef2b397dd7b6d&mpshare=1&scene=23&srcid=1221WTKTLzlQ3Gi1tzwDlRdU#rd)
 
-[解决 ISO 第三方 sdk 之间重复的 symbols 的问题](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155662&idx=3&sn=91c3fbd6409fd513ace383928494205c&chksm=8046cf6fb73146793ceeb12a1a278f4cd7041f3b72ba3ab0ca6d0857a2b61028c439866285d7&mpshare=1&scene=23&srcid=12215Vukguu1at68kJOx5wmP#rd)
+[解决 iOS 第三方 sdk 之间重复的 symbols 的问题](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155662&idx=3&sn=91c3fbd6409fd513ace383928494205c&chksm=8046cf6fb73146793ceeb12a1a278f4cd7041f3b72ba3ab0ca6d0857a2b61028c439866285d7&mpshare=1&scene=23&srcid=12215Vukguu1at68kJOx5wmP#rd)
 
 [美团网 MVVM 与 FRP学习笔记](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155665&idx=1&sn=32a8948f6a273eb4ca217de0238ee4ba&chksm=8046cf70b7314666a08c6c746b24b989a1d3dcd750fe78bff4c26e0321259619582722787c16&mpshare=1&scene=23&srcid=1221D2wHseKsTigs0zpIvkRK#rd)
 
@@ -44,6 +44,8 @@
 
 [iOS 项目分析与优化](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155687&idx=1&sn=0d48575c67eb5f3be1016748a5c80ff9&chksm=8046cf46b7314650e47b7f8ec9dc0c4e6dd1959084eb2d7d7ec7fe3845f54f48a8d71fbefb3b&mpshare=1&scene=23&srcid=12218nL0dhjjMNikv7Jx8D3X#rd)
 
+[HTTP 协议中你必须知道的三种数据格式](http://mp.weixin.qq.com/s?__biz=MzI1OTQwOTg2Mg==&mid=2247484308&idx=2&sn=e025b98953f133ec8849e5d1c4ea8149&chksm=ea78113ddd0f982b1edc1d21f33b22ad1950b2f2616d71017151416903ed18f797594bdcc28a&mpshare=1&scene=23&srcid=1222tlZHPlXZPMS22Ao7o8dq#rd)
+
 [iOS 升级 https 通过 ats 你所要知道的事](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155687&idx=2&sn=3cc5de3622b1acb029e0b50a4c139f53&chksm=8046cf46b7314650e38d995988774d8745dcbdd011eef5d9af7b6078fc9dc12e0bce91526131&mpshare=1&scene=23&srcid=1221GrhWqatgXikbe6D8DZ2Z#rd)
 
 [iOS 用自签名证书实现 https 请求的原理实例讲解](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155696&idx=1&sn=1eacd8df05dd04bf6aa931e2940c9153&chksm=8046cf51b731464715f9917e60a3afd4ad01d3574430151c89990fe96d7ef2f6473cc82066fc&mpshare=1&scene=23&srcid=1221SoAue25hr1jEzUCyWZWJ#rd)
@@ -67,7 +69,7 @@
 
 [AFNetworking到底做了什么？](http://mp.weixin.qq.com/s?__biz=MzA4ODk0NjY4NA==&mid=2701606382&idx=1&sn=bb55b98771f987f77e76983430eb4cfa&chksm=b4d1ff7d83a6766b8e67c2f41a2228f6334d33686e9f6f826949eaa55761ed1a2ca9252c6eda&mpshare=1&scene=23&srcid=1221szToPA7dyaLHEbwaA4PS#rd)
 
-[HTTP 协议中你必须知道的三种数据格式](http://mp.weixin.qq.com/s?__biz=MzI1OTQwOTg2Mg==&mid=2247484308&idx=2&sn=e025b98953f133ec8849e5d1c4ea8149&chksm=ea78113ddd0f982b1edc1d21f33b22ad1950b2f2616d71017151416903ed18f797594bdcc28a&mpshare=1&scene=23&srcid=1222tlZHPlXZPMS22Ao7o8dq#rd)
+
 
 [iOS 动态化](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155703&idx=1&sn=1efac6cc27d1865e94dc1db5c8c3a277&chksm=8046cf56b73146403b62376f07f0440940b209e6d84e1fa0d4d4d78a83c51cc73f1b1f9f5922&mpshare=1&scene=23&srcid=1228Mi0WigFEORmLbKsZuvsu#rd)
 
