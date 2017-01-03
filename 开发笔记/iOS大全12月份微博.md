@@ -21,7 +21,14 @@
 
 [Weex 学习与实践一,Weex 你需要知道的事情](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155667&idx=1&sn=ac82eb354645a018622b7f94156e473c&chksm=8046cf72b7314664953add636513b58b58e84bcbe40e0bcf7285694357eda520e579abf6ba18&mpshare=1&scene=23&srcid=1221EN1c5YFz1EUzHNXVLb39#rd)
 
+
+
 [Weex 学习与实践二 iOS 集成的 tips](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155670&idx=3&sn=12715b02086d7c0668c4989dc106525a&chksm=8046cf77b731466171c250883f5c85d1021a4ddcbab07a8ddbdfca331f0562956e268d577969&mpshare=1&scene=23&srcid=1221mEVzsyJuEdBdR2CMVuaq#rd)
+
+[Weex开发之路（1）：开发环境搭建](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155733&idx=2&sn=503892c0e7c101c1b59e629665520689&chksm=8046cf34b7314622b22bc603a03db306161c6b30823b97ba8d54436ec6caabd2a0d7ae3829df&mpshare=1&scene=23&srcid=1230RJhOw9lEwAIut4sHkvds#rd)
+
+[Weex开发之路（二）：完成一个ToDoList项目](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155742&idx=1&sn=a820aea4829206e79f84ff625f5d5335&chksm=8046cf3fb7314629812227638114bbe9674e7218513088a8456d79edc139ee51b8acf0fb6432&mpshare=1&scene=23&srcid=01034ycuz56YkOeo4rr3NUd6#rd)
+
 
 [点 run 之后发生了什么](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155667&idx=2&sn=23cd376464b27f2885d31978395bb0a1&chksm=8046cf72b7314664323d0b1a2b174983e95fb74b9f2c6ebcd49307ae2fa7998da13038d1a6e2&mpshare=1&scene=23&srcid=1221Fxgw6ePZgO8BNDGeAmSp#rd)
 
@@ -49,6 +56,8 @@
 [iOS 升级 https 通过 ats 你所要知道的事](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155687&idx=2&sn=3cc5de3622b1acb029e0b50a4c139f53&chksm=8046cf46b7314650e38d995988774d8745dcbdd011eef5d9af7b6078fc9dc12e0bce91526131&mpshare=1&scene=23&srcid=1221GrhWqatgXikbe6D8DZ2Z#rd)
 
 [iOS 用自签名证书实现 https 请求的原理实例讲解](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155696&idx=1&sn=1eacd8df05dd04bf6aa931e2940c9153&chksm=8046cf51b731464715f9917e60a3afd4ad01d3574430151c89990fe96d7ef2f6473cc82066fc&mpshare=1&scene=23&srcid=1221SoAue25hr1jEzUCyWZWJ#rd)
+
+[写给 iOS 开发者看的 HTTPS 指南](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155733&idx=1&sn=c7c2f8d1872679257084826234f0174a&chksm=8046cf34b7314622a63414497b5170bb34b3e6dcab59ef51a785b543673f2c16d0742f491b5d&mpshare=1&scene=23&srcid=1230sivi14mJMkIT20QsQqZu#rd)
 
 [iOS 页面切换形变动画](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155690&idx=1&sn=2ee70a30df14c2660d900f8b5f0e78ec&chksm=8046cf4bb731465d2a581c221d17e9372231634e8a2b966451a941a2b0d32e71d9a9f1b1b3f2&mpshare=1&scene=23&srcid=1221I1wcbvlcbqhhvzckjmXb#rd)
 
@@ -94,6 +103,17 @@
 [runtime 闲聊内存管理](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155729&idx=1&sn=bd287977586eb96d717bf8a5d12afe37&chksm=8046cf30b73146262c0aadd79daa8ef49e0c764056ec6744d7ce878d5727d9944eec23f3daba&mpshare=1&scene=23&srcid=1228oxVHFrw5UG8HdyW2fwqt#rd)
 
 [利用动态化加载实现手机淘宝的节日特效](http://www.jianshu.com/p/195eb1d8d0de)
+
+[iOS 高效调试](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155742&idx=2&sn=11bd9f56cbfee0f86a9240771be3abf0&chksm=8046cf3fb7314629e2d773ec6918ebf2d4ed1b054a12f70cd31457a7ebaa70d0bfeec2d8cef5&mpshare=1&scene=23&srcid=0103l9ghCekmltf1PhFiKyKg#rd)
+
+[Swift 3必看：Error与NSError的关系](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155747&idx=1&sn=21dcdf6e8fe6cf15eec27a678647c9d7&chksm=8046cf02b7314614a3397ec971508f5ec5f854bcef5bdb5849b7463946da0bdae83e1e4c3415&mpshare=1&scene=23&srcid=0103O9ltGG91Q4lz0QVePx9U#rd)
+
+[YYCache](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155747&idx=2&sn=00b1c26f7678ce8b5e12bad1302371cd&chksm=8046cf02b7314614d5b0eb238c4fc431252692394d9201aa9236107e5e84402e11f7e37118ce&mpshare=1&scene=23&srcid=0103Yga9hWYJB5k3tDnreQED#rd)
+
+[iOS 更加优雅便捷的UIAlertView/UIAlertController封装使用](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155749&idx=1&sn=2e16e9a70e80675e89c9a8a4dc8cbe73&chksm=8046cf04b731461220daf3efa26671090fa85c6380a9a857bfae47a620a6372ae9b4d1bd0dd5&mpshare=1&scene=23&srcid=0103WVH2R6hmwOLNrISlERhY#rd)
+
+[iOS进阶之页面性能优化](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155749&idx=2&sn=3d100d7cb77544381487947191f9b10f&chksm=8046cf04b731461271ecff3558a6023556a61f7f4b8d2c45f80b0a74941f553ef5c30790f5ab&mpshare=1&scene=23&srcid=0103wNTmHYCSOExLAGgfckeV#rd)
+
 
 ----
 [书籍](http://blog.jobbole.com/106093/)
