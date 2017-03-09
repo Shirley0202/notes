@@ -2,6 +2,8 @@
 以下是需要学习和整理的
 [iOS_UI进阶【拖拽排序】的实现](https://yq.aliyun.com/articles/70559?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&utm_content=m_11599)(https://github.com/HelloYeah/DraggingSort)
 
+[组件化汇总](http://www.jianshu.com/p/f30c1a1ea231)
+
 http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155911&idx=1&sn=3906b783c456d7074f0ff224cdc80e5d&chksm=8046d066b73159706eec1404cf73b6f37c9a04d0954d582969342ae5dba99cf148b45d787f00&mpshare=1&scene=23&srcid=0224i5CjIR68j985VQfBnzZI#rd
 我的手机  09:38:08
 http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652155911&idx=2&sn=08e92e4348b67afdaff9e503736a66d9&chksm=8046d066b73159707c5c9b843fa48f27b91cb405b160d9b5206bde0630fae5f5f8b8f2f0720a&mpshare=1&scene=23&srcid=0224K2XWolYYLhT1Cd8ssapy#rd
